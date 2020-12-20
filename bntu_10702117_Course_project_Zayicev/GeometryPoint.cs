@@ -8,7 +8,7 @@ namespace bntu_10702117_Course_project_Zayicev
 {
     class GeometryPoint
     {
-
+        public int Count { get; set; }
         public double X { get; set; }
         public double Y { get; set; }
         public double Z { get; set; }
